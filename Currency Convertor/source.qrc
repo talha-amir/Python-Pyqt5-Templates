@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>flaticon_search-512.png</file>
+    <file>76-512.png</file>
+  </qresource>
+</RCC>
