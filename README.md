@@ -2,3 +2,4 @@
 ### Templates Available:
 - LogIn Form
 - Simple Calculator
+- Currency Convertor
